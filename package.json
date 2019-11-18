@@ -9,10 +9,10 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && react-snapshot",
     "deploy": "gh-pages -d docs",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && react-snapshot",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -32,6 +32,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1",
+    "react-snapshot": "^1.3.0"
   }
 }
