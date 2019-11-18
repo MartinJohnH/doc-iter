@@ -1,26 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/header";
+import Main from "./components/main";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+        <Header />
+        <div className="vimeo-wrapper">
+        <iframe title="Iter Trailer"
+    src="https://player.vimeo.com/video/373800754?autoplay=1&loop=1&color=ffffff&title=0&byline=0&portrait=0"
+    frameBorder="0" allow="autoplay; fullscreen"></iframe>
+        </div>
+        <Main />
+        <div className="border"></div>
+        </div>
+);
 }
 
 export default App;
