@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doc-iter/static/css/main.dda3fc12.chunk.css",
+    "main.css": "/doc-iter/static/css/main.e1602947.chunk.css",
     "main.js": "/doc-iter/static/js/main.d5f41c58.chunk.js",
     "main.js.map": "/doc-iter/static/js/main.d5f41c58.chunk.js.map",
     "runtime-main.js": "/doc-iter/static/js/runtime-main.e4656aa5.js",
@@ -8,9 +8,9 @@
     "static/js/2.9ca70cf7.chunk.js": "/doc-iter/static/js/2.9ca70cf7.chunk.js",
     "static/js/2.9ca70cf7.chunk.js.map": "/doc-iter/static/js/2.9ca70cf7.chunk.js.map",
     "index.html": "/doc-iter/index.html",
-    "precache-manifest.4e8c94ab2ae07cde9f64c04a0646b479.js": "/doc-iter/precache-manifest.4e8c94ab2ae07cde9f64c04a0646b479.js",
+    "precache-manifest.305e0e97b064b1db386a1fa23efbee6c.js": "/doc-iter/precache-manifest.305e0e97b064b1db386a1fa23efbee6c.js",
     "service-worker.js": "/doc-iter/service-worker.js",
-    "static/css/main.dda3fc12.chunk.css.map": "/doc-iter/static/css/main.dda3fc12.chunk.css.map",
+    "static/css/main.e1602947.chunk.css.map": "/doc-iter/static/css/main.e1602947.chunk.css.map",
     "static/media/dog.png": "/doc-iter/static/media/dog.11bcd1e1.png",
     "static/media/github.png": "/doc-iter/static/media/github.47d6e6bf.png",
     "static/media/kid.png": "/doc-iter/static/media/kid.28052b55.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.e4656aa5.js",
     "static/js/2.9ca70cf7.chunk.js",
-    "static/css/main.dda3fc12.chunk.css",
+    "static/css/main.e1602947.chunk.css",
     "static/js/main.d5f41c58.chunk.js"
   ]
 }
