@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
 * {
   box-sizing: inherit;
 }
@@ -58,6 +60,7 @@ code {
   color: white;
   font-size: 28px;
   font-weight: normal;
+  font-family: 'Lora', serif;
 }
 
 .play-button {
@@ -82,6 +85,7 @@ code {
   color: white;
   font-size: 20px;
   transition: all .2s ease-in-out;
+  font-family: 'Lora', serif;
 }
 
 .github-button {
@@ -183,10 +187,12 @@ code {
 .subtitle {
   color: white;
   font-size: 24px;
+  font-family: 'Lora', serif;
 }
 .subtitle2 {
   color: black;
   font-size: 24px;
+  font-family: 'Lora', serif;
 }
 
 .text {
