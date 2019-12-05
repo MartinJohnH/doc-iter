@@ -3,7 +3,8 @@ import kid from "../media/kid.png";
 import dog from "../media/dog.png";
 import ring1 from "../media/ring1.png";
 import ring2 from "../media/ring2.png";
-
+import tether from "../media/tether.gif";
+import gravity from "../media/gravity.gif";
 
 const Main = () => {
     const handlePageScroll = (e) => {
@@ -31,6 +32,7 @@ const Main = () => {
                 <div className="col-3">
                     <h2 className="subtitle"><br/></h2>
                     <p className="text"> Child will follow the dog as long as they are tethered. The child’s spirit will begin to fade if left untethered for too long.</p>
+                    <img className="gif" src={tether} alt="tether" />
                 </div>
                 <img className="image-right" src={kid} alt="Kid" />
                 <div className="col-1">
@@ -43,13 +45,17 @@ const Main = () => {
                 <div className="col-4">
                     <h2 className="subtitle">Gravity Manipulation</h2>
                     <p className="text">To aid your journey, you have the power to manipulate gravity in any of the six directions. Use gravity to move heavy objects, open pathways, and avoid light beams.</p>
+                    <img className="gif" src={gravity} alt="gravity" />
                 </div>
             </div>
             <div className="section-about-2">
-                <div className="col-2">
-                </div>
-                <div className="col-4">
-                </div>
+
+            </div>
+            <div className="section-about-3">
+
+                <iframe className="video" width="70%" height="70%" src="https://www.youtube.com/embed/6NzYKCeno78" frameBorder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen></iframe>
             </div>
             <div className="section-about-4">
 

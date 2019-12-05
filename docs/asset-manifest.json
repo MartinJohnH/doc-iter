@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/doc-iter/static/css/main.910c00a4.chunk.css",
-    "main.js": "/doc-iter/static/js/main.42a795a5.chunk.js",
-    "main.js.map": "/doc-iter/static/js/main.42a795a5.chunk.js.map",
+    "main.css": "/doc-iter/static/css/main.4a6f7242.chunk.css",
+    "main.js": "/doc-iter/static/js/main.661ea53d.chunk.js",
+    "main.js.map": "/doc-iter/static/js/main.661ea53d.chunk.js.map",
     "runtime-main.js": "/doc-iter/static/js/runtime-main.e4656aa5.js",
     "runtime-main.js.map": "/doc-iter/static/js/runtime-main.e4656aa5.js.map",
-    "static/js/2.881031ae.chunk.js": "/doc-iter/static/js/2.881031ae.chunk.js",
-    "static/js/2.881031ae.chunk.js.map": "/doc-iter/static/js/2.881031ae.chunk.js.map",
+    "static/js/2.9ca70cf7.chunk.js": "/doc-iter/static/js/2.9ca70cf7.chunk.js",
+    "static/js/2.9ca70cf7.chunk.js.map": "/doc-iter/static/js/2.9ca70cf7.chunk.js.map",
     "index.html": "/doc-iter/index.html",
-    "precache-manifest.781d8b899d3d47e1bdb8d6e5fa5d7218.js": "/doc-iter/precache-manifest.781d8b899d3d47e1bdb8d6e5fa5d7218.js",
+    "precache-manifest.d6d51e127ce7996c799c3c42532f81e6.js": "/doc-iter/precache-manifest.d6d51e127ce7996c799c3c42532f81e6.js",
     "service-worker.js": "/doc-iter/service-worker.js",
-    "static/css/main.910c00a4.chunk.css.map": "/doc-iter/static/css/main.910c00a4.chunk.css.map",
+    "static/css/main.4a6f7242.chunk.css.map": "/doc-iter/static/css/main.4a6f7242.chunk.css.map",
     "static/media/dog.png": "/doc-iter/static/media/dog.11bcd1e1.png",
     "static/media/github.png": "/doc-iter/static/media/github.47d6e6bf.png",
+    "static/media/gravity.gif": "/doc-iter/static/media/gravity.b0f25f32.gif",
     "static/media/kid.png": "/doc-iter/static/media/kid.28052b55.png",
     "static/media/ring1.png": "/doc-iter/static/media/ring1.b188a82b.png",
-    "static/media/ring2.png": "/doc-iter/static/media/ring2.0485eade.png"
+    "static/media/ring2.png": "/doc-iter/static/media/ring2.0485eade.png",
+    "static/media/tether.gif": "/doc-iter/static/media/tether.5c442edd.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.e4656aa5.js",
-    "static/js/2.881031ae.chunk.js",
-    "static/css/main.910c00a4.chunk.css",
-    "static/js/main.42a795a5.chunk.js"
+    "static/js/2.9ca70cf7.chunk.js",
+    "static/css/main.4a6f7242.chunk.css",
+    "static/js/main.661ea53d.chunk.js"
   ]
 }
